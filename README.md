@@ -138,10 +138,6 @@ Here we show a gameplay describing a $`2`$-player game on a $`5\times 5`$ chessb
 
 The final score is $`A:B = 15:10`$. So A wins the game.
 
-## Issues? Bugs? Questions?
-
-Feel free to open an issue in this repository, or contact us in Ed thread.
-
 ## About
 
 This is a class project for COMP 424, McGill University, Fall 2022 (it was forked from the past year, Winter 2022 with the permission of Jackie Cheung).
